@@ -1,0 +1,55 @@
+[{"type":"section
+title":"CHRIST_MEMORIAL",
+"description":"CHRIST_MEMORIAL",
+"groups":[{"type":"question","name":"NAME",
+"description":"Name","question_type":{"id":8,"text":"Text","value":"text",
+"hasOption":false,"allowNextSection":false,"hasValidation":true,"rules":
+{"maxLength":"50","minLength":0}},"required":true,"groups":[]},
+
+{"type":"question",
+"name":"LOCATION_NAME",
+"description":"WHICH PLACE",
+"question_type":{"id":8,"text":"Text","value":"text","hasOption":false,"allowNextSection":false,
+"hasValidation":true,"rules":{"maxLength":"50","minLength":0}},
+"required":true,"groups":[]},
+
+{"type":"question",
+"name":"TYPE","description":"",
+"question_type":{"id":8,"text":"Text",
+"value":"text",
+"hasOption":false,
+"allowNextSection":false,"hasValidation":true,"rules":{"maxLength":"50",
+minLength":0}},"required":true,"groups":[]},
+
+{"type":"question",
+"name":"ADDITIONAL_ INFORMATION"
+,"description":"",
+"question_type":{"id":8,"text":"Text","value":"text","hasOption":false,
+"allowNextSection":false,"hasValidation":true,
+"rules":{"maxLength":"200","minLength":0}},
+"required":true,"groups":[]}]}]
+
+
+[{"type":"section",
+"title":"Parking_car_pick_points",
+"description":"Parking_car_pick_points",
+"groups":[{"type":"question
+name":"NAME","description":"Name of the feature",
+"question_type":{"id":8,"text":"Text","value":"text",
+"hasOption":false,"allowNextSection":false,"hasValidation":true
+,"rules":{"maxLength":"50","minLength":0}},"required":true,"groups":[]},
+{"type":"question",
+"name":"LOCATION_NAME",
+"description":"area where it is located",
+"question_type":{"id":8,"text":"Text","value":"text",
+"hasOption":false,"allowNextSection":false,"hasValidation":true,
+"rules":{"maxLength":"50","minLength":0}},"required":true,"groups":[]},
+{"type":"question",
+"name":"TIMINGS","description":""
+,"question_type":{"id":8,"text":"Text","value":"text",
+"hasOption":false,"allowNextSection":false,"hasValidation":true,
+"rules":{"maxLength":"50","minLength":0}},"required":true,"groups":[]},
+{"type":"question","name":"ADDITIONAL_ INFORMATION",
+"description":"","question_type":{"id":8,"text":"Text",
+"value":"text","hasOption":false,"allowNextSection":false,
+"hasValidation":true,"rules":{"maxLength":"200","minLength":0}},"required":true,"groups":[]}]}]
